@@ -1,0 +1,21 @@
+ name: ChestNetwork
+ version: 1.0
+ description: A chest sorting plugin;
+ author: DevJack
+ main: me.devjack.chestnetwork.ChestNetwork
+ 
+ commands:
+   filter:
+     description: go into filter mode.
+     usage: /filer
+   getChests:
+     description: gives chests.
+     usage: /getChests
+   info:
+     description: gives network info.
+     usage: /info
+   Access:
+     description: gives players access to network.
+     usage: /Access
+     
+     
